@@ -8,7 +8,7 @@
 6) create a test dir
 7) clone the application by running the followings:
     git clone https://github.com/etafoh/myvpc.git
-8) cd to the newqly created 'myvpc' dir
+8) cd to the newly created 'myvpc' dir
 9) run the deploy script as follows:
     ./deployVPC.sh
     
